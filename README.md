@@ -24,7 +24,11 @@ h1 {
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
-      <h1>Hello, world</h1>
+      <h1>The Hacking Project</h1>
+      <h2>Semaine d'introduction au code</h2>
+      <h3>Jour 3 / 15</h3>
+      <h3>Bootstrap, ou comment rendre ton site joli et mobile</h3>
+      <h4>Mise en place d'une page simple</h4>
     </div>
   </foreignObject>
 </svg>
